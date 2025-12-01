@@ -1,3 +1,6 @@
+2025-12-01 수입. 학습목적
+
+
 <p align="center"><img src="assets/logo.png" width="480"\></p>
 
 **This repository has gone stale as I unfortunately do not have the time to maintain it anymore. If you would like to continue the development of it as a collaborator send me an email at eriklindernoren@gmail.com.**
